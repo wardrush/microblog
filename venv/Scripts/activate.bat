@@ -38,10 +38,14 @@ if defined _OLD_VIRTUAL_PATH (
 
 set "PATH=%VIRTUAL_ENV%\Scripts;%PATH%"
 
-set MAIL_SERVER=smtp.googlemail.com
+
+set MAIL_USERNAME=james.e.b.rushton@gmail.com
+set MAIL_SERVER=smtp.gmail.com
+set MAIL_USE_TLS=True
+set MAIL_USE_SSL=False
 set MAIL_PORT=587
 set MAIL_USE_TLS=1
-set MAIL_PASSWORD='Kunststoff44'
+set MAIL_PASSWORD=Kunststoff44
 
 :END
 if defined _OLD_CODEPAGE (
