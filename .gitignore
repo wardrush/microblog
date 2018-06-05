@@ -1,5 +1,6 @@
-.idea/
 __pycache__/
+venv/
+.idea/
 Notes
 logs/
-venv/
+app/__pycache__/
